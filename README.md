@@ -15,3 +15,7 @@ Basic HPC cluster using Ansilbe,Vagrant and OpenHPC
 6.Run sinfo in the head or frontend to see the state of your node , you might need to wake them up in case they're down.
 
 7.You can now start using your cluster to run jobs using srun --mpi=pmi2
+
+
+Presentation link :
+https://docs.google.com/presentation/d/1pPIXO3P5b__AlBlEF6V_ezEWjTxMVXCbzprS4_EQflE/edit#slide=id.p
